@@ -1,0 +1,28 @@
+{
+  "name": "graphql-backpack",
+  "version": "0.1.0",
+  "description": "An attempt to create a graphql workflow with backpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfrohberg/graphql-backpack.git"
+  },
+  "keywords": [
+    "graphql",
+    "javascript",
+    "es7",
+    "backpack"
+  ],
+  "author": "Michael Frohberg <mcfrohberg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfrohberg/graphql-backpack/issues"
+  },
+  "homepage": "https://github.com/mfrohberg/graphql-backpack#readme",
+  "dependencies": {
+    "backpack-core": "^0.0.7"
+  }
+}
