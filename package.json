@@ -4,7 +4,7 @@
   "description": "An attempt to create a graphql workflow with backpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "backpack"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/mfrohberg/graphql-backpack#readme",
   "dependencies": {
-    "backpack-core": "^0.0.7"
+    "backpack-core": "^0.0.7",
+    "graphql-anywhere": "^2.1.0",
+    "graphql-tag": "^1.2.4"
   }
 }
